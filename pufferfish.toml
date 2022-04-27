@@ -1,0 +1,3 @@
+[project]
+verbose = true
+minify = true
